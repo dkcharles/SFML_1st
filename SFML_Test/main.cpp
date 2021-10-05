@@ -3,7 +3,7 @@
 * SFML Documentation https://www.sfml-dev.org/documentation/2.5.1/
 * Set up your own VS2019 project https://www.youtube.com/watch?v=lFzpkvrscs4
 */
-#include <SFML/Graphics.hpp>                                            // sf namespace
+#include <SFML/Graphics.hpp>                                            // sf namespace 
 
 int main()
 {
